@@ -1,13 +1,24 @@
-# investment-diary
-A stocks invest records and thoughts
+# A股投资笔记
+
+
+
+2018年底的时候读到一本《穷查理宝典》，使我对投资有了新的认识。与此同时，随着贸易摩擦的进展，A股估值降低至近年来低位。2019年初国内出台减税降费利好，贸易谈判、冲突缓和，机会来临了。。
 
 ## 2019
 
-### MAY
+### 1月 — 4月
 
-[5-10 friday](https://github.com/gdoggy/investment-diary/2019/0511.md)
+1月初入市，直到4月初都是躺着盈利，毫不夸张，真的躺盈。
 
-### June
+4月开始赚钱效应减弱，接下来更是像过山车一样赤鸡。
 
+### 5月
 
+5月6日 星期一，贸易谈判突现黑天鹅，千股跌停！
+
+[5月10日 星期五](https://github.com/gdoggy/investment-diary/blob/master/2019/0511.md)，黎明前的黑暗还是曙光？
+
+### 6月
+
+coming soon
 
