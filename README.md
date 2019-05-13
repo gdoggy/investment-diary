@@ -16,7 +16,9 @@
 
 5月6日 星期一，贸易谈判突现黑天鹅，千股跌停！
 
-[5月10日 星期五](https://github.com/gdoggy/investment-diary/blob/master/2019/0511.md)，黎明前的黑暗还是曙光？
+[5月10日 星期五，黎明前的黑暗还是曙光？](https://github.com/gdoggy/investment-diary/blob/master/2019/0511.md)
+
+[5月13日 星期一，成交缩量，下行整盘](https://github.com/gdoggy/investment-diary/blob/master/2019/0513.md)
 
 ### 6月
 
