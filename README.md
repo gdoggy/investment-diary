@@ -2,7 +2,7 @@
 
 
 
-**编者按：**对生活和学习的记录是一种好习惯，我将它用在投资上，希望在A股这个新兴市场日趋成熟的过程中，自己也可以逐渐成长为像查理·芒格一样独具眼光和智慧的投资大师~
+**编者按：** 对生活和学习的记录是一种好习惯，我将它用在投资上，希望在A股这个新兴市场日趋成熟的过程中，自己也可以逐渐成长为像查理·芒格一样独具眼光和智慧的投资大师~
 
 *本文内容均属原创，无抄袭或商业用途，亦不作为投资依据。如有侵权请与[我](mailto:vipyangtuo@gmail.com)联系。*
 
@@ -28,11 +28,10 @@
 
 ### 5月
 
-- 5月06日 星期一，贸易谈判突现黑天鹅，千股跌停！
-
+- 5月06日 星期一，贸易谈判黑天鹅，千股跌停！
 - [5月10日 星期五，黎明前的黑暗还是曙光？](https://github.com/gdoggy/investment-diary/blob/master/2019/0511.md)
-
-- [5月13日 星期一，成交缩量，下行整盘~](https://github.com/gdoggy/investment-diary/blob/master/2019/0513.md)
+- [5月13日 星期一，成交缩量，下行整盘。](https://github.com/gdoggy/investment-diary/blob/master/2019/0513.md)
+- [5月14日 星期二，情绪回暖，静观其变。](https://github.com/gdoggy/investment-diary/blob/master/2019/0514.md)
 
 ### 6月
 
