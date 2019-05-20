@@ -35,7 +35,7 @@
 - [5月15日 星期三，缩量上涨，企稳回升](https://github.com/gdoggy/investment-diary/blob/master/2019/0515.md)
 - [5月16日 星期四，成交量温和放大，板块轮动上涨](https://github.com/gdoggy/investment-diary/blob/master/2019/0516.md)
 - [5月17日 星期五，资金出逃，放量大跌](https://github.com/gdoggy/investment-diary/blob/master/2019/0517.md)
-- 
+- [5月20日 星期一，人气低迷，缩量下跌](https://github.com/gdoggy/investment-diary/blob/master/2019/0520.md)
 
 ### 6月
 
