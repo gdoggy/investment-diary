@@ -22,13 +22,12 @@
 
 ### 1月 — 4月
 
-- 1月初入市，直到4月初都是躺着盈利，毫不夸张，真的躺盈。
+- 1月初入市，直到4月初都是躺着盈利，毫不夸张的说躺盈
 
-- 4月开始赚钱效应减弱，接下来更是像过山车一样赤鸡。
+- 4月开始赚钱效应减弱，接下来便是零和博弈的时刻
 
 ### 5月
 
-- 5月06日 星期一，贸易谈判黑天鹅，千股跌停！
 - [5月10日 星期五，黎明前的黑暗还是曙光？](https://github.com/gdoggy/investment-diary/blob/master/2019/0511.md)
 - [5月13日 星期一，成交缩量，下行整盘](https://github.com/gdoggy/investment-diary/blob/master/2019/0513.md)
 - [5月14日 星期二，情绪回暖，静观其变](https://github.com/gdoggy/investment-diary/blob/master/2019/0514.md)
