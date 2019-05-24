@@ -38,6 +38,8 @@
 - [5月20日 星期一，人气低迷，缩量下跌](https://github.com/gdoggy/investment-diary/blob/master/2019/0520.md)
 - [5月21日 星期二，稀土板块爆发，成交低量，指数上涨](https://github.com/gdoggy/investment-diary/blob/master/2019/0521.md)
 - [5月22日 星期三，成交维持低量，市场震荡下行](https://github.com/gdoggy/investment-diary/blob/master/2019/0522.md)
+- [5月23日 星期四，全球风险资产下跌，中美股市重挫](https://github.com/gdoggy/investment-diary/blob/master/2019/0523.md)
+- [5月24日 星期五，成交量继续萎缩，北向资金有所回流](https://github.com/gdoggy/investment-diary/blob/master/2019/0524.md)
 - 
 
 ### 6月
