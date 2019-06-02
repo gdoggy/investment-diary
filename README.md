@@ -50,9 +50,21 @@
 
 #### 第22周
 
-- 
+- [5月27日 星期一，持仓要有耐心，心急吃不到热豆腐](https://github.com/gdoggy/investment-diary/blob/master/2019/0527.md)
+- [5月28日 星期二，追逐热点，选择投机](https://github.com/gdoggy/investment-diary/blob/master/2019/0528.md)
+- [5月29日 星期三，投机不可取，投资需形成体系](https://github.com/gdoggy/investment-diary/blob/master/2019/0529.md)
+- [5月30日 星期四，回顾失败，总结经验，重新出发](https://github.com/gdoggy/investment-diary/blob/master/2019/0530.md)
+- [5月31日 星期五，心静如水，坚守理念](https://github.com/gdoggy/investment-diary/blob/master/2019/0531.md)
 
 ### 6月
+
+#### 第23周
+
+- [6月3日 星期一，获取信息，加强学习](https://github.com/gdoggy/investment-diary/blob/master/2019/0603.md)
+
+
+
+### 7月
 
 *coming soon*
 
