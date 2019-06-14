@@ -58,9 +58,25 @@
 
 ### 6月
 
-#### 第23周
+#### 第23周(端午节)
 
 - [6月3日 星期一，获取信息，加强学习](https://github.com/gdoggy/investment-diary/blob/master/2019/0603.md)
+- [6月4日 星期二，稳中向好，静待良机](https://github.com/gdoggy/investment-diary/blob/master/2019/0604.md)
+- [6月5日 星期三，保持稳定，持仓观望](https://github.com/gdoggy/investment-diary/blob/master/2019/0605.md)
+- [6月6日 星期四，科技制裁持续发酵，持仓好坏参半](https://github.com/gdoggy/investment-diary/blob/master/2019/0606.md)
+
+#### 第24周
+
+- [6月10日 星期一，规避风险，止损换仓](https://github.com/gdoggy/investment-diary/blob/master/2019/0610.md)
+- [6月11日 星期二，轻仓玩耍，防止被套](https://github.com/gdoggy/investment-diary/blob/master/2019/0611.md)
+- [6月12日 星期三，空仓 = 放松](https://github.com/gdoggy/investment-diary/blob/master/2019/0612.md)
+- [6月13日 星期四，海康威视，已到最佳买点？](https://github.com/gdoggy/investment-diary/blob/master/2019/0613.md)
+- [6月14日 星期五，轻仓抄底，乐观谨慎](https://github.com/gdoggy/investment-diary/blob/master/2019/0614.md)
+
+#### 第25周
+
+- [6月17日 星期一，看涨？看跌？](https://github.com/gdoggy/investment-diary/blob/master/2019/0617.md)
+- [6月18日 星期二，看涨？看跌？](https://github.com/gdoggy/investment-diary/blob/master/2019/0618.md)
 
 
 
