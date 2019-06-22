@@ -58,12 +58,13 @@
 
 ### 6月
 
-#### 第23周(端午节)
+#### 第23周
 
 - [6月3日 星期一，获取信息，加强学习](https://github.com/gdoggy/investment-diary/blob/master/2019/0603.md)
 - [6月4日 星期二，稳中向好，静待良机](https://github.com/gdoggy/investment-diary/blob/master/2019/0604.md)
 - [6月5日 星期三，保持稳定，持仓观望](https://github.com/gdoggy/investment-diary/blob/master/2019/0605.md)
 - [6月6日 星期四，科技制裁持续发酵，持仓好坏参半](https://github.com/gdoggy/investment-diary/blob/master/2019/0606.md)
+- 6月7日 星期五，端午节休市
 
 #### 第24周
 
@@ -75,8 +76,16 @@
 
 #### 第25周
 
-- [6月17日 星期一，看涨？看跌？](https://github.com/gdoggy/investment-diary/blob/master/2019/0617.md)
-- [6月18日 星期二，看涨？看跌？](https://github.com/gdoggy/investment-diary/blob/master/2019/0618.md)
+- [6月17日 星期一，交投意愿下降，成交量接近年内低位，后市不宜乐观](https://github.com/gdoggy/investment-diary/blob/master/2019/0617.md)
+- [6月18日 星期二，成交量每况愈下，吸筹观望看淡行情](https://github.com/gdoggy/investment-diary/blob/master/2019/0618.md)
+- [6月19日 星期三，特习会即将上演，风险资金热情重燃](https://github.com/gdoggy/investment-diary/blob/master/2019/0619.md)
+- [6月20日 星期四，意外放量大涨，人气大幅回升](https://github.com/gdoggy/investment-diary/blob/master/2019/0620.md)
+- [6月21日 星期五，再次清仓风控，下周看你们表演](https://github.com/gdoggy/investment-diary/blob/master/2019/0621.md)
+
+#### 第26周
+
+- [6月24日 星期一，看涨？看跌？](https://github.com/gdoggy/investment-diary/blob/master/2019/0624.md)
+- [6月25日 星期二，看涨？看跌？](https://github.com/gdoggy/investment-diary/blob/master/2019/0625.md)
 
 
 
