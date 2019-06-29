@@ -78,18 +78,26 @@
 
 - [6月17日 星期一，交投意愿下降，成交量接近年内低位，后市不宜乐观](https://github.com/gdoggy/investment-diary/blob/master/2019/0617.md)
 - [6月18日 星期二，成交量每况愈下，吸筹观望看淡行情](https://github.com/gdoggy/investment-diary/blob/master/2019/0618.md)
-- [6月19日 星期三，特习会即将上演，风险资金热情重燃](https://github.com/gdoggy/investment-diary/blob/master/2019/0619.md)
+- [6月19日 星期三，特习会即将上演，风险资产热情重燃](https://github.com/gdoggy/investment-diary/blob/master/2019/0619.md)
 - [6月20日 星期四，意外放量大涨，人气大幅回升](https://github.com/gdoggy/investment-diary/blob/master/2019/0620.md)
 - [6月21日 星期五，再次清仓风控，下周看你们表演](https://github.com/gdoggy/investment-diary/blob/master/2019/0621.md)
 
 #### 第26周
 
-- [6月24日 星期一，看涨？看跌？](https://github.com/gdoggy/investment-diary/blob/master/2019/0624.md)
-- [6月25日 星期二，看涨？看跌？](https://github.com/gdoggy/investment-diary/blob/master/2019/0625.md)
-
-
+- [6月24日 星期一，预期回调兑现，震荡仍将持续](https://github.com/gdoggy/investment-diary/blob/master/2019/0624.md)
+- [6月25日 星期二，低吸建仓，控制成本](https://github.com/gdoggy/investment-diary/blob/master/2019/0625.md)
+- [6月26日 星期三，稳定向好，等待收益](https://github.com/gdoggy/investment-diary/blob/master/2019/0626.md)
+- [6月27日 星期四，把握节奏，积小胜为大胜](https://github.com/gdoggy/investment-diary/blob/master/2019/0627.md)
+- [6月28日 星期五，一切按计划进行，G20符合预期](https://github.com/gdoggy/investment-diary/blob/master/2019/0628.md)
 
 ### 7月
+
+#### 第27周
+
+- [7月1日 星期一，看涨？看跌？](https://github.com/gdoggy/investment-diary/blob/master/2019/0701.md)
+- [7月2日 星期二，看涨？看跌？](https://github.com/gdoggy/investment-diary/blob/master/2019/0702.md)
+
+### 8月
 
 *coming soon*
 
