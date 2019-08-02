@@ -94,10 +94,54 @@
 
 #### 第27周
 
-- [7月1日 星期一，看涨？看跌？](https://github.com/gdoggy/investment-diary/blob/master/2019/0701.md)
-- [7月2日 星期二，看涨？看跌？](https://github.com/gdoggy/investment-diary/blob/master/2019/0702.md)
+- [7月1日 星期一，利好兑现，短期做多](https://github.com/gdoggy/investment-diary/blob/master/2019/0701.md)
+- [7月2日 星期二，市场出现分歧，指数震荡调整](https://github.com/gdoggy/investment-diary/blob/master/2019/0702.md)
+- [7月3日 星期三，指数下跌，险守3000点](https://github.com/gdoggy/investment-diary/blob/master/2019/0703.md)
+- [7月4日 星期四，动能不足，震荡加剧](https://github.com/gdoggy/investment-diary/blob/master/2019/0704.md)
+- [7月5日 星期五，失去耐心，败走3000点](https://github.com/gdoggy/investment-diary/blob/master/2019/0705.md)
+
+#### 第28周
+
+- [7月8日 星期一，受美数据影响，三大指数暴跌](https://github.com/gdoggy/investment-diary/blob/master/2019/0708.md)
+- [7月9日 星期二，小幅调整，基本稳定](https://github.com/gdoggy/investment-diary/blob/master/2019/0709.md)
+- [7月10日 星期三，高开低走，缺乏信心](https://github.com/gdoggy/investment-diary/blob/master/2019/0710.md)
+- [7月11日 星期四，再次高开低走，市场信心溃散](https://github.com/gdoggy/investment-diary/blob/master/2019/0711.md)
+- [7月12日 星期五，久旱逢雨，毛毛雨](https://github.com/gdoggy/investment-diary/blob/master/2019/0712.md)
+
+#### 第29周
+
+- [7月15日 星期一，GDP稳定向好，市场触底反弹](https://github.com/gdoggy/investment-diary/blob/master/2019/0715.md)
+- [7月16日 星期二，冲高回落，小幅调整](https://github.com/gdoggy/investment-diary/blob/master/2019/0716.md)
+- [7月17日 星期三，上行压力明显，延续震荡行情](https://github.com/gdoggy/investment-diary/blob/master/2019/0717.md)
+- [7月18日 星期四，贸易摩擦缓慢发酵，新一轮下行行情启动](https://github.com/gdoggy/investment-diary/blob/master/2019/0718.md)
+- [7月19日 星期五，科创板开闸，国家队助阵](https://github.com/gdoggy/investment-diary/blob/master/2019/0719.md)
+
+#### 第30周
+
+- [7月22日 星期一，主板抽血，爆炒新板](https://github.com/gdoggy/investment-diary/blob/master/2019/0722.md)
+- [7月23日 星期二，不急不躁，理性决策](https://github.com/gdoggy/investment-diary/blob/master/2019/0723md)
+- [7月24日 星期三，未盯盘无操作](https://github.com/gdoggy/investment-diary/blob/master/2019/0724.md)
+- [7月25日 星期四，指数3连涨，2800底部基本确立](https://github.com/gdoggy/investment-diary/blob/master/2019/0725.md)
+- [7月26日 星期五，白马回调，科技领涨，剧本已变？](https://github.com/gdoggy/investment-diary/blob/master/2019/0726.md)
+
+#### 第31周
+
+- [7月29日 星期一，科创板分流，主板缩量维稳](https://github.com/gdoggy/investment-diary/blob/master/2019/0729.md)
+- [7月30日 星期二，指数缓慢上涨，信心逐步建立](https://github.com/gdoggy/investment-diary/blob/master/2019/0730.md)
+- [7月31日 星期三，消息面是危还是机？](https://github.com/gdoggy/investment-diary/blob/master/2019/0731.md)
 
 ### 8月
+
+- [8月1日 星期四，利好落空，普跌为敬](https://github.com/gdoggy/investment-diary/blob/master/2019/0801.md)
+- [8月2日 星期五，黑天鹅再现，全球风险资产重挫](https://github.com/gdoggy/investment-diary/blob/master/2019/0802.md)
+
+####第32周
+
+- [8月5日 星期一，空头？多头？](https://github.com/gdoggy/investment-diary/blob/master/2019/0805.md)
+
+
+
+###9月
 
 *coming soon*
 
