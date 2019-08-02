@@ -30,7 +30,7 @@
 
 #### 第19周
 
-- [5月10日 星期五，黎明前的黑暗还是曙光？](https://github.com/gdoggy/investment-diary/blob/master/2019/0511.md)
+- [5月10日 星期五，黑天鹅突现，黎明前的黑暗还是曙光？](https://github.com/gdoggy/investment-diary/blob/master/2019/0510.md)
 
 #### 第20周
 
@@ -135,13 +135,13 @@
 - [8月1日 星期四，利好落空，普跌为敬](https://github.com/gdoggy/investment-diary/blob/master/2019/0801.md)
 - [8月2日 星期五，黑天鹅再现，全球风险资产重挫](https://github.com/gdoggy/investment-diary/blob/master/2019/0802.md)
 
-####第32周
+#### 第32周
 
 - [8月5日 星期一，空头？多头？](https://github.com/gdoggy/investment-diary/blob/master/2019/0805.md)
 
 
 
-###9月
+### 9月
 
 *coming soon*
 
